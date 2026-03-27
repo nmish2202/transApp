@@ -7,6 +7,7 @@ android/.gradle/
 android/app/build/
 android/build/
 android/app/.cxx/
+**/local.properties
 ios/build/
 ios/Pods/
 web/dist/
