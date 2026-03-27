@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Translation icon: two overlapping speech bubbles -->
+    <!-- Left speech bubble -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M30,32 L56,32 C58.2,32 60,33.8 60,36 L60,52 C60,54.2 58.2,56 56,56 L42,56 L36,62 L36,56 L30,56 C27.8,56 26,54.2 26,52 L26,36 C26,33.8 27.8,32 30,32 Z"/>
+
+    <!-- "ने" text (Nepali) in left bubble - simplified as a small shape -->
+    <path
+        android:fillColor="#1E4D40"
+        android:pathData="M34,41 L38,41 L38,43 L36,43 L36,49 L34,49 Z M40,41 L44,41 L44,43 L42,43 L42,46 L44,46 L44,49 L40,49 L40,46 L40,43 Z"/>
+
+    <!-- Right speech bubble (overlapping, slightly offset) -->
+    <path
+        android:fillColor="#F9F2E6"
+        android:pathData="M52,44 L78,44 C80.2,44 82,45.8 82,48 L82,64 C82,66.2 80.2,68 78,68 L72,68 L72,74 L66,68 L52,68 C49.8,68 48,66.2 48,64 L48,48 C48,45.8 49.8,44 52,44 Z"/>
+
+    <!-- "हि" text (Hindi) in right bubble - simplified as a small shape -->
+    <path
+        android:fillColor="#1E4D40"
+        android:pathData="M56,53 L58,53 L58,55 L60,53 L62,53 L60,55.5 L62,58 L60,58 L58,55.5 L58,58 L56,58 Z M64,53 L68,53 L68,55 L66,55 L66,61 L64,61 Z"/>
+
+    <!-- Arrow between bubbles -->
+    <path
+        android:fillColor="#F9F2E6"
+        android:pathData="M46,40 L50,44 L46,48 L46,45 L42,45 L42,43 L46,43 Z"/>
+</vector>
